@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fjerenico%2Fopenmv-ide.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fjerenico%2Fopenmv-ide?ref=badge_shield)
+
 # openmv-ide #
 Qt Creator based OpenMV IDE
 
@@ -41,3 +43,7 @@ Instructions for running the installer silently
 https://stackoverflow.com/a/34032216
 
 Note that some modifications to the above solution may be needed.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fjerenico%2Fopenmv-ide.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fjerenico%2Fopenmv-ide?ref=badge_large)
